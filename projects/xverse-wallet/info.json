@@ -1,0 +1,12 @@
+{
+  "name": "Xverse Wallet",
+  "description": "Bitcoin wallet, built for everyone. Available for Chrome on desktop and for iOS and Android.",
+  "category": "wallet",
+  "tags": [
+    "wallet"
+  ],
+  "website": "https://www.xverse.app/",
+  "social": {
+    "twitter": "xverseApp"
+  }
+}

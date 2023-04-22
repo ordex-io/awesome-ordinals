@@ -5,8 +5,8 @@
   "tags": [
     "wallet"
   ],
-  "links": {
-    "website": "https://wallet.hiro.so/",
+  "website": "https://wallet.hiro.so/",
+  "social": {
     "twitter": "hirowallet"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "name": "UniSat Wallet",
+  "description": "Open Source Chrome Extension for Bitcoin Ordinals & brc-20.",
+  "category": "wallet",
+  "tags": [
+    "wallet"
+  ],
+  "website": "https://unisat.io/",
+  "social": {
+    "twitter": "unisat_wallet"
+  }
+}

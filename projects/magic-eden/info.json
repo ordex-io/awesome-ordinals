@@ -1,0 +1,14 @@
+{
+  "name": "Magic Eden",
+  "description": "Multichain NFT Platform",
+  "category": "marketplace",
+  "tags": [
+    "marketplace",
+    "launchpad"
+  ],
+  "website": "https://magiceden.io/",
+  "email": "",
+  "social": {
+    "twitter": "magiceden"
+  }
+}

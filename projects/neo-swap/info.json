@@ -1,0 +1,15 @@
+{
+  "name": "NeoSwap",
+  "description": "NFT Smart Auction and NFT swapper",
+  "category": "marketplace",
+  "tags": [
+    "marketplace",
+    "auction",
+    "swap"
+  ],
+  "website": "https://neoswap.xyz/",
+  "email": "",
+  "social": {
+    "twitter": "neoswap_ai"
+  }
+}

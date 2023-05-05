@@ -1,0 +1,14 @@
+{
+  "name": "Ord-swap",
+  "description": "World's first trustless Ordinals market built on Bitcoin",
+  "category": "marketplace",
+  "tags": [
+    "marketplace",
+    "auction"
+  ],
+  "website": "https://ordswap.io/",
+  "email": "",
+  "social": {
+    "twitter": "ordswap"
+  }
+}

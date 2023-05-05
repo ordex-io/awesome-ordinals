@@ -1,0 +1,13 @@
+{
+  "name": "Ultra Rares",
+  "description": "Create, Buy and sell ordinals",
+  "category": "marketplace",
+  "tags": [
+    "marketplace"
+  ],
+  "website": "https://ultrarares.io/",
+  "email": "",
+  "social": {
+    "twitter": "ultra_rares"
+  }
+}

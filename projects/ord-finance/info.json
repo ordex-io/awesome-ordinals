@@ -1,0 +1,13 @@
+{
+  "name": "Ordinal Finance",
+  "description": "A platform for developing DeFi applications on Bitcoin",
+  "category": "defi",
+  "tags": [
+    "defi"
+  ],
+  "website": "https://ordin.finance/",
+  "email": "",
+  "social": {
+    "twitter": "ordinalsfinance"
+  }
+}

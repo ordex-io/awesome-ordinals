@@ -3,7 +3,10 @@
   "description": "Bitcoin wallet, built for everyone. Available for Chrome on desktop and for iOS and Android.",
   "category": "wallet",
   "tags": [
-    "wallet"
+    "wallet",
+    "browser extension",
+    "desktop app",
+    "mobile app"
   ],
   "website": "https://www.xverse.app/",
   "social": {

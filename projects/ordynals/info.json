@@ -1,0 +1,13 @@
+{
+  "name": "Ordynals",
+  "description": "Bitcoin ordinals directory & floor price tracker",
+  "category": "marketplace",
+  "tags": [
+    "marketplace"
+  ],
+  "website": "https://ordynals.com/",
+  "email": "",
+  "social": {
+    "twitter": "ordynals"
+  }
+}

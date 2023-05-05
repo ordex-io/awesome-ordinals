@@ -1,0 +1,14 @@
+{
+  "name": "Alby",
+  "description": "Browser extension for the #Bitcoin and #LightningNetwork. Alby creates a new experience to consume and reward content or services online",
+  "category": "wallet",
+  "tags": [
+    "wallet",
+    "browser extension"
+  ],
+  "website": "https://getalby.com/",
+  "email": "support@getalby.com",
+  "social": {
+    "twitter": "getalby"
+  }
+}

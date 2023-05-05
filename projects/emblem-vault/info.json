@@ -1,0 +1,13 @@
+{
+  "name": "Emblem Vault",
+  "description": "Bridge tool to trade nfts and marketplace",
+  "category": "infrastructure",
+  "tags": [
+    "bridge",
+    "infrastructure"
+  ],
+  "website": "https://emblem.pro/",
+  "social": {
+    "twitter": "emblemvault"
+  }
+}

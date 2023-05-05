@@ -1,0 +1,15 @@
+{
+  "name": "Generative",
+  "description": "The next-generation art platform on Bitcoin!",
+  "category": "marketplace",
+  "tags": [
+    "art",
+    "marketplace",
+    "generative",
+    "wallet"
+  ],
+  "website": "https://generative.xyz/",
+  "social": {
+    "twitter": "generative"
+  }
+}

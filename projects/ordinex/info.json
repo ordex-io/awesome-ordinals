@@ -1,0 +1,13 @@
+{
+  "name": "Ordinex",
+  "description": "Secure, trustless, and transparent environment for the trading of Bitcoin Ordinals with an easy to use interface.",
+  "category": "marketplace",
+  "tags": [
+    "marketplace"
+  ],
+  "website": "https://ordinex.io/",
+  "email": "",
+  "social": {
+    "twitter": "ordinexio"
+  }
+}

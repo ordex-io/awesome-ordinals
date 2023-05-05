@@ -3,7 +3,10 @@
   "description": "Open Source Chrome Extension for Bitcoin Ordinals & brc-20.",
   "category": "wallet",
   "tags": [
-    "wallet"
+    "wallet",
+    "marketplace",
+    "brc20",
+    "minting"
   ],
   "website": "https://unisat.io/",
   "social": {

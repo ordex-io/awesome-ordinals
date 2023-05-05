@@ -1,0 +1,14 @@
+{
+  "name": "Ordi Mint",
+  "description": "Minting service and wallet",
+  "category": "wallet",
+  "tags": [
+    "minting",
+    "wallet"
+  ],
+  "website": "https://ordmint.com/",
+  "email": "",
+  "social": {
+    "twitter": "ordimint"
+  }
+}

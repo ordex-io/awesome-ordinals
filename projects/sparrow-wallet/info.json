@@ -1,0 +1,13 @@
+{
+  "name": "Sparrow Wallet",
+  "description": "Sparrow is a Bitcoin wallet for those who value financial self sovereignty. Sparrow's emphasis is on security, privacy and usability",
+  "category": "wallet",
+  "tags": [
+    "wallet"
+  ],
+  "website": "https://sparrowwallet.com/",
+  "email": "",
+  "social": {
+    "twitter": "sparrowwallet"
+  }
+}

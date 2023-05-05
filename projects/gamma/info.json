@@ -1,0 +1,14 @@
+{
+  "name": "Gamma.io",
+  "description": "Gamma is a #Bitcoin NFT marketplace and creator launchpad",
+  "category": "marketplace",
+  "tags": [
+    "marketplace",
+    "tool",
+    "launchpad"
+  ],
+  "website": "https://gamma.io/",
+  "social": {
+    "twitter": "trygamma"
+  }
+}

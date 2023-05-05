@@ -1,0 +1,13 @@
+{
+  "name": "OpenOrdex",
+  "description": "OpenOrdex is an open source zero-fee trustless Bitcoin NFT marketplace based on partially signed bitcoin transactions",
+  "category": "marketplace",
+  "tags": [
+    "marketplace"
+  ],
+  "website": "https://openordex.org/",
+  "email": "",
+  "social": {
+    "twitter": "openordex"
+  }
+}

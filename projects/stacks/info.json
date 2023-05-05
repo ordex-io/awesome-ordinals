@@ -1,0 +1,14 @@
+{
+  "name": "Stacks",
+  "description": "Create smart contracts and build decentralized applications on Bitcoin with the Stacks layer.",
+  "category": "infrastructure",
+  "tags": [
+    "infrastructure",
+    "layer-2"
+  ],
+  "website": "https://stacks.co/",
+  "email": "",
+  "social": {
+    "twitter": "stacks"
+  }
+}

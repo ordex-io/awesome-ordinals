@@ -1,0 +1,14 @@
+{
+  "name": "Ord.io",
+  "description": "Search, browse, and vote on ordinal inscriptions like never before.",
+  "category": "directory",
+  "tags": [
+    "directory",
+    "vote"
+  ],
+  "website": "https://ord.io/",
+  "email": "",
+  "social": {
+    "twitter": "ord_io"
+  }
+}

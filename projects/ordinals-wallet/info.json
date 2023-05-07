@@ -1,0 +1,14 @@
+{
+  "name": "Ordinals Wallet",
+  "description": "Buy, sell, and collect Bitcoin stuff.",
+  "category": "marketplace",
+  "tags": [
+    "marketplace",
+    "wallet"
+  ],
+  "website": "https://ordinalswallet.com/",
+  "email": "",
+  "social": {
+    "twitter": "ordinalswallet"
+  }
+}

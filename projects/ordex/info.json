@@ -1,0 +1,18 @@
+{
+  "name": "ORDEX",
+  "description": "The first Ordinals aggregator & infra provider",
+  "category": "aggregator",
+  "tags": [
+    "aggregator",
+    "marketplace",
+    "launchpad",
+    "infrastructure",
+    "API"
+  ],
+  "website": "https://ordex.ai",
+  "email": "info@ordex.ai",
+  "social": {
+    "twitter": "OrdexAi",
+    "discord": "https://go.ordex.ai/discord"
+  }
+}
